@@ -1,4 +1,2 @@
 # NLP
-Assignments for nlp
-POS tagging 
-Removing stopwords
+Assignment 1 :POS tagging and removing stop words 
